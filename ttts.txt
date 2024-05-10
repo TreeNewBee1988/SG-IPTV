@@ -1,8 +1,0 @@
-log-api.pangolin-sdk-toutiao.com
-open.e.kuaishou.cn
-sdk.e.qq.com
-cmv6-10-81.getui.com
-talkv6.getui.com
-dc.sigmob.cn
-adservice6.sigmob.cn
-wxsnsdythumb.wxs.qq.com
