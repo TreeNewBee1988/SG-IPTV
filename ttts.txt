@@ -4,3 +4,4 @@ dc.sigmob.cn
 adservice6.sigmob.cn
 wxsnsdythumb.wxs.qq.com
 log-api.pangolin-sdk-toutiao.com
+open.e.kuaishou.cn
