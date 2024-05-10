@@ -6,3 +6,4 @@ wxsnsdythumb.wxs.qq.com
 log-api.pangolin-sdk-toutiao.com
 open.e.kuaishou.cn
 log-api.pangolin-sdk-toutiao.com
+sdk.e.qq.com
