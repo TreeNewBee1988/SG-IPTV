@@ -6,3 +6,4 @@ talkv6.getui.com
 dc.sigmob.cn
 adservice6.sigmob.cn
 wxsnsdythumb.wxs.qq.com
+mi.gdt.qq.com
